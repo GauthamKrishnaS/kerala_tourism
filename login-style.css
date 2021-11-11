@@ -1,0 +1,15 @@
+.feedback-form{
+    z-index: 10;
+    
+}
+input{
+    border-radius: 5px ;
+}
+#submit-button{
+    margin-left: 100px;
+    padding: 5px;
+}
+#submit-button:hover{
+    background-color: rgb(92, 184, 101);
+    color: white;
+}
